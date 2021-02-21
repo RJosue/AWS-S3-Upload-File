@@ -1,4 +1,4 @@
-# aws-s3-backup
+# AWS-S3-Upload-File
 Example app to upload files in AWS S3
 
 ## Installation
