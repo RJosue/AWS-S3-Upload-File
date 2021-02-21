@@ -1,15 +1,16 @@
 # aws-s3-backup
+Example app to upload files in AWS S3
 
 ## Installation
 ````bash
-    npm i
+npm install
 ````
 
 ## Configuration
 create .env file with
 ````.env
-    BUCKET_NAME= 
-    AWS_ACCESS_KEY=
-    AWS_SECRET_ACCESS_KEY=
+BUCKET_NAME=  // AWS S3 bucket name
+AWS_ACCESS_KEY= // AWS IAM user access_key
+AWS_SECRET_ACCESS_KEY= // AWS IAM user secret_access_key
 ````
 
